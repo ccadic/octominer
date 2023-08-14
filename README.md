@@ -1,5 +1,8 @@
 # octominer
 OctoMiner Board: operate up to 8 NerdMiners
+
+<img src="https://github.com/ccadic/octominer/blob/main/octoboard8.jpg">
+
 Puchase a fully built board here: https://www.tindie.com/products/morpheans/octominer-operate-up-to-8-nerdminers/
 
 
